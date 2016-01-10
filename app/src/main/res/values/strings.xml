@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GammingApp</string>
+    <string name="hintUserName">Insert your user name</string>
+    <string name="hintPassword">Your password</string>
 </resources>
