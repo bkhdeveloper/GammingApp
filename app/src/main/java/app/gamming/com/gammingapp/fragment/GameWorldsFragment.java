@@ -23,6 +23,8 @@ public class GameWorldsFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        ((MainActivity)getActivity()).getSupportActionBar().setTitle(R.string.title_list_games);
     }
 
     @Nullable

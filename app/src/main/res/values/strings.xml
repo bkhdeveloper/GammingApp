@@ -2,4 +2,9 @@
     <string name="app_name">GammingApp</string>
     <string name="hintUserName">Insert your user name</string>
     <string name="hintPassword">Your password</string>
+    <string name="listGameAction">Query games</string>
+    <string name="title_login">Login</string>
+    <string name="title_list_games">Game worlds</string>
+    <string name="title_async_loading">Loading</string>
+    <string name="msg_async_loading">Loading games in progress ...</string>
 </resources>
